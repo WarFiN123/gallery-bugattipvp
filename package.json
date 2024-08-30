@@ -9,7 +9,7 @@
     "analyze": "ANALYZE=true next build"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^0.0.53",
+    "@ai-sdk/openai": "^0.0.54",
     "@aws-sdk/client-s3": "3.637.0",
     "@aws-sdk/s3-request-presigner": "3.637.0",
     "@next/bundle-analyzer": "14.2.6",
